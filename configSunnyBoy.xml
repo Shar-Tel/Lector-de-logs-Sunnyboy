@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Definiciones>
+	<Inverter>
+		<Planta>Planta1</Planta>
+		<Numero>1</Numero>
+		<Serie>20002024534</Serie>
+		<Linea>0</Linea>
+		<idBD>513</idBD>
+	</Inverter>
+	<Inverter>
+		<Planta>Planta1</Planta>
+		<Numero>2</Numero>
+		<Serie>2001402324</Serie>
+		<Linea>0</Linea>
+		<idBD>514</idBD>
+	</Inverter>
+	<Inverter>
+		<Planta>Planta2</Planta>
+		<Numero>1</Numero>
+		<Serie>2001434554</Serie>
+		<Linea>0</Linea>
+		<idBD>515</idBD>
+	</Inverter>
+
+</Definiciones>
